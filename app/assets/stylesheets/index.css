@@ -62,3 +62,8 @@
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
 }
+
+.navbar .container-fluid .collapse{
+  display: flex;
+  justify-content: end;
+}
